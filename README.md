@@ -14,9 +14,9 @@ The functions work but I haven't created tests for them yet. Use at your own per
 For all functions listed below, the first argument should be a column of values, while the second should be a column of weights.
 
 ### Unweighted Statistics
-median_absolute_deviation(numeric)
+ * `median_absolute_deviation(numeric)`
 
 ### Weighted Statistics
-weighted_sum(numeric, numeric)
-weighted_avg(numeric, numeric)
-weighted_median(numeric, numeric)
+ * `weighted_sum(numeric, numeric)`
+ * `weighted_avg(numeric, numeric)`
+ * `weighted_median(numeric, numeric)`
